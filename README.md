@@ -27,6 +27,11 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <td>Remote</td>
 </tr>
 <tr>
+<td>BitsCrunch</td>
+<td><a href = "https://bitscrunch.com/careers">BitsCrunch</a></td>
+<td>Remote</td>
+</tr>
+<tr>
 <td>Clootrack</td>
 <td><a href = "https://www.clootrack.com/careers">Clootrack</a></td>
 <td>Remote</td>
