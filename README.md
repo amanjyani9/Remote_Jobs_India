@@ -7,8 +7,7 @@
 <body>
 
 <h2>
-Companies which provide Remote work in India are listed Here. If any link is broken or if you want to add any new link Please write in
-<a href="https://github.com/Amandeep-2/Remote_Jobs_India/tree/Modify_Data">Modify_Data</a>
+Companies which provide Remote work in India are listed Here. If any link is broken or if you want to add any new link Please do mention.
 <br/>
 <br/>
 </h2>
