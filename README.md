@@ -17,6 +17,15 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <th>Careers URL</th>
 <th>Remote/Hybrid</th>
 </tr>
+<td>Astra</td>
+<td><a href = "https://www.getastra.com/team-and-culture">Astra</a></td>
+<td>Remote</td>
+</tr>
+<tr>
+<td>Bro Media</td>
+<td><a href = "https://www.bro-media.net/">Bro Media</a></td>
+<td>Remote</td>
+</tr>
 <tr>
 <td>Clootrack</td>
 <td><a href = "https://www.clootrack.com/careers">Clootrack</a></td>
@@ -26,11 +35,6 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <td>Fulfil</td>
 <td><a href = "https://jobs.fulfil.io/">Fulfil</a></td>
 <td>Remote(IN/CA)</td>
-</tr>
-<tr>
-<td>Bro Media</td>
-<td><a href = "https://www.bro-media.net/">Bro Media</a></td>
-<td>Remote</td>
 </tr>
 </table>
 </body>
