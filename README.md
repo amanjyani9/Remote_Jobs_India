@@ -41,6 +41,11 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <td><a href = "https://jobs.fulfil.io/">Fulfil</a></td>
 <td>Remote(IN/CA)</td>
 </tr>
+<tr>
+<td>Uniblox</td>
+<td><a href = "https://wellfound.com/company/uniblox/jobs">Uniblox</a></td>
+<td>Remote(IN/CA)</td>
+</tr>
 </table>
 </body>
 </html>
