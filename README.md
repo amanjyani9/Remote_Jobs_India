@@ -22,6 +22,11 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <td>Remote</td>
 </tr>
 <tr>
+<td>Audigent</td>
+<td><a href = "https://audigent.com/careers/">Uniblox</a></td>
+<td>Remote(IN/US)</td>
+</tr>
+<tr>
 <td>Bro Media</td>
 <td><a href = "https://www.bro-media.net/">Bro Media</a></td>
 <td>Remote</td>
@@ -44,7 +49,7 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <tr>
 <td>Uniblox</td>
 <td><a href = "https://wellfound.com/company/uniblox/jobs">Uniblox</a></td>
-<td>Remote(IN/CA)</td>
+<td>Remote(IN)</td>
 </tr>
 </table>
 </body>
