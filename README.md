@@ -17,6 +17,12 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <th>Careers URL</th>
 <th>Remote/Hybrid</th>
 </tr>
+<tr>
+<td>Arting Digital</td>
+<td><a href = "https://artingdigital.zohorecruit.in/jobs/Careers">Arting Digital</a></td>
+<td>Remote</td>
+</tr>
+<tr>
 <td>Astra</td>
 <td><a href = "https://www.getastra.com/team-and-culture">Astra</a></td>
 <td>Remote</td>
@@ -44,6 +50,11 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <tr>
 <td>Fulfil</td>
 <td><a href = "https://jobs.fulfil.io/">Fulfil</a></td>
+<td>Remote(IN/CA)</td>
+</tr>
+<tr>
+<td>Kuvaka Tech</td>
+<td><a href = "www.kuvaka.io/">Kuvaka</a></td>
 <td>Remote(IN/CA)</td>
 </tr>
 <tr>
