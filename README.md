@@ -54,7 +54,7 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 </tr>
 <tr>
 <td>Kuvaka Tech</td>
-<td><a href = "www.kuvaka.io/">Kuvaka</a></td>
+<td><a href = "https://www.kuvaka.io/">Kuvaka</a></td>
 <td>Remote(IN/CA)</td>
 </tr>
 <tr>
