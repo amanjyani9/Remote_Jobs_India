@@ -62,6 +62,11 @@ Companies which provide Remote work in India are listed Here. If any link is bro
 <td><a href = "https://wellfound.com/company/uniblox/jobs">Uniblox</a></td>
 <td>Remote(IN)</td>
 </tr>
+<tr>
+<td>Chess</td>
+<td><a href = "https://chess.com">Uniblox</a></td>
+<td>Remote</td>
+</tr>
 </table>
 </body>
 </html>
